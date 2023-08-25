@@ -1,5 +1,5 @@
-# wt_credit_activity
+# Burberry E-Commerce Website
 
 Link : https://moonlit-semolina-1271d9.netlify.app/
 
-![](https://i.postimg.cc/Wz02ZXTc/Screenshot-from-2022-06-05-18-03-45.png)
+![](https://i.postimg.cc/NjZXhwkz/Img1.png)
